@@ -53,6 +53,8 @@ namespace setRTC
         private void timer1_Tick(object sender, EventArgs e)
         {
             LabelSysTime.Text = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
+            RTCTimeTemp = arduino.getRTCTime();
+            labelRTCTime.Text = RTCTimeTemp;
             if (connection)
             {
                 if(RTCTimeTemp=="UNKNOWN")
@@ -62,9 +64,9 @@ namespace setRTC
                     UpdateUI();
                     ComboBoxPorts.SelectedIndex = 0;
                 }
-                RTCTimeTemp = arduino.getRTCTime();
-                labelRTCTime.Text = RTCTimeTemp;
+                
             }
+            
         }
 
         private void ComboBoxPorts_SelectedIndexChanged(object sender, EventArgs e)
@@ -125,6 +127,11 @@ namespace setRTC
             ComboBoxPorts.Items.Clear();
             ComboBoxPorts.Items.Add("Disconnect");
             AddComPorts();
+        }
+
+        private void labelRTCTime_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -18,3 +18,12 @@ C:\Users\fe\Desktop\setRTC_visual_studio\setRTC\setRTC\obj\Debug\setRTC.csproj.G
 C:\Users\fe\Desktop\setRTC_visual_studio\setRTC\setRTC\obj\Debug\setRTC.csproj.CoreCompileInputs.cache
 C:\Users\fe\Desktop\setRTC_visual_studio\setRTC\setRTC\obj\Debug\setRTC.exe
 C:\Users\fe\Desktop\setRTC_visual_studio\setRTC\setRTC\obj\Debug\setRTC.pdb
+C:\Users\BenzRST\Desktop\RTC_Setting\setRTC_visual_studio\setRTC\setRTC\bin\Debug\setRTC.exe.config
+C:\Users\BenzRST\Desktop\RTC_Setting\setRTC_visual_studio\setRTC\setRTC\obj\Debug\setRTC.exe
+C:\Users\BenzRST\Desktop\RTC_Setting\setRTC_visual_studio\setRTC\setRTC\obj\Debug\setRTC.pdb
+C:\Users\BenzRST\Desktop\RTC_Setting\setRTC_visual_studio\setRTC\setRTC\bin\Debug\setRTC.exe
+C:\Users\BenzRST\Desktop\RTC_Setting\setRTC_visual_studio\setRTC\setRTC\bin\Debug\setRTC.pdb
+C:\Users\BenzRST\Desktop\RTC_Setting\setRTC_visual_studio\setRTC\setRTC\obj\Debug\setRTC.csprojResolveAssemblyReference.cache
+C:\Users\BenzRST\Desktop\RTC_Setting\setRTC_visual_studio\setRTC\setRTC\obj\Debug\setRTC.Form1.resources
+C:\Users\BenzRST\Desktop\RTC_Setting\setRTC_visual_studio\setRTC\setRTC\obj\Debug\setRTC.Properties.Resources.resources
+C:\Users\BenzRST\Desktop\RTC_Setting\setRTC_visual_studio\setRTC\setRTC\obj\Debug\setRTC.csproj.GenerateResource.Cache
