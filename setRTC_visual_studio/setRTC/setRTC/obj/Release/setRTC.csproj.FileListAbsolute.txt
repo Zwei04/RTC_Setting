@@ -1,0 +1,10 @@
+C:\Users\fe\Desktop\setRTC\setRTC\setRTC\bin\Release\setRTC.exe.config
+C:\Users\fe\Desktop\setRTC\setRTC\setRTC\bin\Release\setRTC.exe
+C:\Users\fe\Desktop\setRTC\setRTC\setRTC\bin\Release\setRTC.pdb
+C:\Users\fe\Desktop\setRTC\setRTC\setRTC\obj\Release\setRTC.csprojAssemblyReference.cache
+C:\Users\fe\Desktop\setRTC\setRTC\setRTC\obj\Release\setRTC.Form1.resources
+C:\Users\fe\Desktop\setRTC\setRTC\setRTC\obj\Release\setRTC.Properties.Resources.resources
+C:\Users\fe\Desktop\setRTC\setRTC\setRTC\obj\Release\setRTC.csproj.GenerateResource.cache
+C:\Users\fe\Desktop\setRTC\setRTC\setRTC\obj\Release\setRTC.csproj.CoreCompileInputs.cache
+C:\Users\fe\Desktop\setRTC\setRTC\setRTC\obj\Release\setRTC.exe
+C:\Users\fe\Desktop\setRTC\setRTC\setRTC\obj\Release\setRTC.pdb
